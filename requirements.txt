@@ -1,0 +1,9 @@
+aiogram==3.0.0b7
+python-dotenv
+requests
+yt-dlp
+pydub
+moviepy
+yandex-music
+ffmpeg-python
+flask
